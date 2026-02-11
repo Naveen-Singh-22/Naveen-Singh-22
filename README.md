@@ -22,7 +22,7 @@ I am a passionate **Full-Stack Developer** focused on building scalable, cloud-e
 - RESTful APIs and backend development  
 - Git/GitHub workflows  
 - IoT projects  
-- Getting started with full-stack development  
+- Getting started with full-stack development and many more. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-aks)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imailnaveenaks@gmail.com) 
